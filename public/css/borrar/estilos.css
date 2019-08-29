@@ -1,0 +1,47 @@
+
+.jumbotron {
+    margin: 0px 0px 0px 0px;
+    color: white ;
+}
+
+.cafe{
+	background-color: #0C7E6D ;
+	border: 0;
+  	border-radius: 0;
+
+}
+.nav.navbar-nav {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	float: none;
+}
+
+
+.icon-bar{
+	background-color: white ;
+	color: white ;
+}
+
+.navbar-nav>li>a{
+	color: white ;
+	font-size: 1.5em;
+}
+
+.navbar-nav>li>a:hover{
+	color: black ;
+	background-color: #1C8A54 ;
+}
+
+body{
+	background-color: #5AE1A0 ;
+	font-family: 'Roboto', sans-serif;
+	padding-top: 105px;
+}
+
+
+footer{
+	background-color: #121212 ;
+	color: white ;
+}
+

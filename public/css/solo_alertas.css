@@ -1,0 +1,48 @@
+/* Modal styles */
+.modal .modal-dialog {
+	top: 100px;
+	max-width: 400px;
+}
+
+.modal-header{
+	padding: 20px 30px;
+	background-color: #c30d04;
+}
+
+.modal .modal .modal-body, .modal .modal-footer {
+	padding: 20px 30px;
+}
+
+.modal .modal-content {
+	top: 40px;
+	border-radius: 3px;
+}
+
+.modal .modal-footer {
+	background: #ecf0f1;
+	border-radius: 0 0 3px 3px;
+}
+
+.modal .modal-title {
+	color: #ffffff;
+    display: inline-block;
+}
+
+.modal .form-control {
+	border-radius: 2px;
+	box-shadow: none;
+	border-color: #dddddd;
+}
+
+.modal textarea.form-control {
+	resize: vertical;
+}
+
+.modal .btn {
+	border-radius: 2px;
+	min-width: 100px;
+}
+
+.modal form label {
+	font-weight: normal;
+}
